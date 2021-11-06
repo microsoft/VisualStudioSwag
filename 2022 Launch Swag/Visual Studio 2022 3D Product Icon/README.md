@@ -13,3 +13,5 @@ Test prints were created on a stock LulzBot Mini with the following settings:
 | Infill:             | 20%                                           |
 | Recommended Color:  | White, Black, or Purple                       |
 | Clean up:           | Use clippers on supports and frayed filament. |
+
+View the glTF model live in your browser in Babylon.js: https://playground.babylonjs.com/#L5LA71
