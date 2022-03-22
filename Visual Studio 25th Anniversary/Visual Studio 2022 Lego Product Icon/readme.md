@@ -1,5 +1,6 @@
 # Visual Studio Lego Set
 
+![A picture of the VS logo Lego set](https://raw.githubusercontent.com/microsoft/VisualStudioSwag/main/Visual%20Studio%2025th%20Anniversary/Visual%20Studio%202022%20Lego%20Product%20Icon/VisualStudio25-TransparentBackground.png)
 
 ## Pieces
 
@@ -23,4 +24,4 @@
 
 ## Instructions
 
-Instructions-VisualStudio-Lego-25th.pdf
+[Instructions-VisualStudio-Lego-25th.pdf](https://github.com/microsoft/VisualStudioSwag/blob/main/Visual%20Studio%2025th%20Anniversary/Visual%20Studio%202022%20Lego%20Product%20Icon/Instructions-VisualStudio-Lego-25th.pdf)
