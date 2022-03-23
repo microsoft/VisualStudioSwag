@@ -2,6 +2,12 @@
 
 ![A picture of the VS logo Lego set](https://raw.githubusercontent.com/microsoft/VisualStudioSwag/main/Visual%20Studio%2025th%20Anniversary/Visual%20Studio%202022%20Lego%20Product%20Icon/VisualStudio25-TransparentBackground.png)
 
+## Ordering
+
+* [Bricklink](https://www.bricklink.com/) - You'll need to publish the .io file to your gallery and create a wanted list.
+* [Brickowl](https://www.brickowl.com/wishlist/view/jfversluis/visual-studio-25th-anniversary) 
+* [Lego](https://www.lego.com/en-us/page/static/pick-a-brick) - You'll need to search for each part and order the appropriate quantity. Dark Purple may also be medium Lilac as the "Exact Color".
+
 ## Pieces
 
 | Description                                            | Part  | Color       | Quantity |
@@ -25,3 +31,4 @@
 ## Instructions
 
 [Instructions-VisualStudio-Lego-25th.pdf](https://github.com/microsoft/VisualStudioSwag/blob/main/Visual%20Studio%2025th%20Anniversary/Visual%20Studio%202022%20Lego%20Product%20Icon/Instructions-VisualStudio-Lego-25th.pdf)
+
