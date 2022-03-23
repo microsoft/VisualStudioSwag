@@ -4,7 +4,7 @@
 
 ## Ordering
 
-* [Bricklink](https://www.bricklink.com/) - You'll need to publish the .io file to your gallery and create a wanted list.
+* [Bricklink](https://www.bricklink.com/) - You'll need to publish the .io file to your gallery and create a wanted list. Or [upload](https://www.bricklink.com/v2/wanted/upload.page) the [BrickPartList.xml](https://github.com/microsoft/VisualStudioSwag/blob/main/Visual%20Studio%2025th%20Anniversary/Visual%20Studio%202022%20Lego%20Product%20Icon/BrickPartList.xml) file. 
 * [Brickowl](https://www.brickowl.com/wishlist/view/jfversluis/visual-studio-25th-anniversary) 
 * [Lego](https://www.lego.com/en-us/page/static/pick-a-brick) - You'll need to search for each part and order the appropriate quantity. Dark Purple may also be medium Lilac as the "Exact Color".
 
