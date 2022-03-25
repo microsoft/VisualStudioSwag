@@ -20,7 +20,7 @@
 | Plate, Modified 1 x 2 with 1 Stud with Groove (Jumper) | 3794b | Black       | 4        |
 | Tile 1 x 2 with Groove                                 | 3069b | Black       | 4        |
 | Tile 1 x 4                                             | 2431  | Black       | 7        |
-| Tile 2 x 2 with Groove                                 | 3068b | Black       | 1        |
+| Tile 2 x 2 with Groove                                 | 3068b | Black       | 2        |
 | Tile 2 x 4                                             | 87079 | Black       | 1        |
 | Brick 1 x 2                                            | 3004  | Dark Purple | 6        |
 | Brick 2 x 2                                            | 3003  | Dark Purple | 2        |
