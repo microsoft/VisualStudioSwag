@@ -27,6 +27,7 @@
 | Slope 45 2 x 2                                         | 3039  | Dark Purple | 8        |
 | Slope, Inverted 45 2 x 2                               | 3660  | Dark Purple | 8        |
 
+Note: the "25" tile is a custom one and is not included in the list above. You probably either want to order a blank tile (Part 3068b above) or you can leave out part 3937 and 6134 and order an additional 3069b so that the base plate will just be flat.
 
 ## Instructions
 
